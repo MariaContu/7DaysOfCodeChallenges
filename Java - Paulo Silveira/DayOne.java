@@ -1,0 +1,7 @@
+/**
+ * DayOne
+ */
+public class DayOne {
+
+    
+}
