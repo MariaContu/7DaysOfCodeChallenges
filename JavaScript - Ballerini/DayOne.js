@@ -22,3 +22,5 @@ if (numeroDez == stringDez) {
 } else {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }
+
+//de acordo com email do dia 2, a solução está correta
